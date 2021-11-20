@@ -15,6 +15,6 @@ Picryptions focus for existing is to make the spread of information safer and wo
 
 ### Other information
 
-*Make sure that you and the person receiving your encrypted message has the same versionn of Pycryption or the decryption **will not work.*** 
+*Make sure that you and the person receiving your encrypted message has the same versionn of Picryption or the decryption **will not work.*** 
 
 Please note that this is the beta version and not the full Picryption so expect bugs. Feel free to report any bugs or such to me or in the "Discussions" Section on github!
