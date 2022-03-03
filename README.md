@@ -1,8 +1,8 @@
 ## Welcome to the Picryption!
 
-### Picryption 1.1.03 Update
+### Picryption 1.1.05 Update
 
-Added a Major Security Buff, rendering all non brute force decrpytion methods void (That I know of) and adding a work factor to make brute force methods take longer to decrypt then atoms in the universe.
+Fixed Yearly time bug.
 
 ### Mission
 
